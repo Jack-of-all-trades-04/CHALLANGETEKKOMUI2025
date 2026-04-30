@@ -11,7 +11,8 @@ int main() {
 
     printf("Pesan singkat dari jiwa yang bergerak bagai air yang mengalir.\n");
     printf("Bila petang menghampiri, kantuk makin terasa dan letih menjadi biasa. "
-        "\nPertama kali, saya melangkahkan kaki di rimnba ini dan langsung merasakan sulitnya bertahan di sini. "
+        "\nUdara memdinginkan sebadan-badan; tenaga pergi tiada tersisa. "
+        "\nPertama kali, saya melangkahkan kaki di rimba ini dan langsung merasakan sulitnya bertahan di sini. "
         "\nAda harapan yang tidak terpenuhi; ada kesedihan yang tiada disambut oleh terang. "
         "\nNamun, tenang hati saya manakala saya mengetahui bahwa beberapa orang sejawat berperasaan dan bernasib sebagaimana diri saya. "
         "\nMereka pontang-panting berdiri di atas kaki sendiri meskipun badai adakalanya coba meruntuhkan mereka. "
