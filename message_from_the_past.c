@@ -2,10 +2,13 @@
 
 int main() {
     printf("\033[1;34m");
-    printf("Written by Tekkom UI 2024\n");
+    printf("man from java\n");
     printf("\033[0m");
 
-    printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
-    printf("ID Lines aslab 23: \n CH : christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
-    printf("ID Lines aslab 24: \n NA : 123dodol123 \n NZ: naputrizu \n DY: hikari.akira_\n");
+    printf("Terimakasih kaka-kaka aslab yang sudah membantu mulai dari materi dsd sampai progdas ini\n");
+    printf("ya walaupun di praktikum progdas ini aku sering csp, tapi setelah csp aku sudah mengerti dimana kesalahanku. yah pokoknya seru deh\n");
+    printf("Dan buat gweh di future nanti, semoga udah jadi engineer yang bener dan udah lancar programming\n");
+    printf("Semoga syudah bertemu dengan your bini yh\n");
+    
+    printf("\nthankuuu aslabb\n");
 }
