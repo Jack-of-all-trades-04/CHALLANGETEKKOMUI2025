@@ -11,6 +11,6 @@ int main() {
 
     printf("\nFrom: Sebastian Oloan Jeremia Simanjuntak\n");
     printf("NPM: 2506620860\n");
-    printf("Hei Bas masa depan! Semoga udah lulus dan berhasil S2 di luar negeri ya.\n");
-    printf("Teknik Komputer UI 2025 - ini awal dari segalanya, jangan nyerah!\n");
+    printf("Hai Bastian dari masa depan, semoga udah lulus dan sukses yaa!\n");
+    printf("inget inget masa masa di Tekkom UI kalau lu udah berjuang!\n");
 }
