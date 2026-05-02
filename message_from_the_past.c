@@ -8,4 +8,9 @@ int main() {
     printf("Kalau udah sukses jangan lupain aslab kalian ya :( \n");
     printf("ID Lines aslab 23: \n CH : christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
     printf("ID Lines aslab 24: \n NA : 123dodol123 \n NZ: naputrizu \n DY: hikari.akira_\n");
+
+    printf( "%1s", "\nSukses & Sehat terus untuk semuanya! :)\n");
+    printf( "%1s", "Kalo ada yang butuh consult tentang Cybersecurity, \n" );
+    printf( "%1s", "Kontak Saya yaw. -tongkatajaib\n" );
 }
+
