@@ -9,5 +9,5 @@ int main() {
     printf("ID Lines aslabs 23: \n CH: christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
 
     printf("From: Gabriella Priscillia Agustin\n");
-    printf("Good luck on every journey! Imanuel\n");
+    printf("Good luck on every journey! Imanuel!\n");
 }
