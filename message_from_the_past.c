@@ -10,5 +10,5 @@ int main() {
     printf("ID Lines aslab 24: \n NA : 123dodol123 \n NZ: naputrizu \n DY: hikari.akira_\n");
 
     printf("\nFrom: Chinthya\n");
-    printf("Semoga gue di masa depan sukses dan bisa banggain orang tua, kakak, juga diri sendiri.\n");
+    printf("Semoga saya di masa depan sukses dan bisa banggain orang tua, kakak, juga diri sendiri.\n");
 }
