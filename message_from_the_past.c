@@ -3,7 +3,7 @@
 #include <windows.h>
 #define DELAY() Sleep(5000)
 #else
-#include <unistd.h>
+#include <unistd.h> //In case your performative ass moves to Mac or Linux
 #define DELAY() sleep(5) 
 #endif
 //Ignore this, it's just for dramatic effect in like 3 years or so
@@ -84,13 +84,11 @@ int main() {
     printf("\nAlso tell me how all about Genshin ends and how your GF is like (if you're even able to get one lmfaooooooooooooo)");
     DELAY();
 
-    printf("To You, 3 Years From Now");
+
+    printf("\n\n\n\nFrom You, 3(000) Years Ago");
     DELAY();
 
-    printf("From You, 3 Years Ago");
-    DELAY();
-
-    printf("Not as dramatic or that much of a time difference than the actual show but you get the gist. Love you man, continue loving other people as well");
+    printf("\n\n\nNot as dramatic or that much of a time difference than the actual show but you get the gist. Love you man, continue loving other people as well");
     //When yh
     return 0;
 }
