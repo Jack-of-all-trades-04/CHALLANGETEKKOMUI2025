@@ -88,7 +88,8 @@ int main() {
     printf("\n\n\n\nFrom You, 3(000) Years Ago");
     DELAY();
 
-    printf("\n\n\nNot as dramatic or that much of a time difference than the actual show but you get the gist. Love you man, continue loving other people as well");
+    printf("\n\n\nNot as dramatic or that much of a time difference from the actual show but you get the gist. Love you man, continue loving other people as well");
     //When yh
+    //Remember all of your Day 1's as well big dawg
     return 0;
 }
