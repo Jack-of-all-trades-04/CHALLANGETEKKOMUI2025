@@ -10,6 +10,7 @@ int main() {
     printf("ID Lines aslab 24: \n NA : 123dodol123 \n NZ: naputrizu \n DY: hikari.akira_\n");
 
     printf("From: Gyl\n");
+    printf("Thankyu for your hard work dari awal gw masuk sampai sekarang aslabss\n");
     printf("Semangat seleksi calon aslab 2025! (terima gw plis)\n");
     printf("\n");
     printf("Semangat buat diriku yg di masa depan\n");
@@ -17,8 +18,8 @@ int main() {
     printf("Jangan lupa mulaimu dari mana dan semua orang yang telah bantu dalam perjalananmu\n");
     printf("Wherever you are in life now, I know you've done your best and will keep doing your best\n");
     printf("\n");
-    printf("To The people who've helped me on this journey\n");
-    printf("I couldn't have blessed with better company\n");
+    printf("To the people who've helped me on this journey\n");
+    printf("I couldn't have been blessed with better company\n");
     printf("Through the highs and lows, my worst and my best\n");
     printf("You've all helped and cared about me\n");
     printf("To you, I give my forever gratitude\n");
@@ -28,4 +29,7 @@ int main() {
     printf("You are not me, you're better\n");
     printf("Best of luck, be grateful, and be blessed!\n");
     printf("Thankyou for being here ❤️\n");
+    printf("\n\n\n");
+    printf("Ec hc qohmwm vro tmmpbyw, T zjzp mjy xcmi\n"); //Hint: Makes the world go around
+    
 }
