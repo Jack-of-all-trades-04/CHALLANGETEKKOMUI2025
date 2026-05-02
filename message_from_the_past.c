@@ -18,8 +18,8 @@ int main() {
     printf("ID Lines aslab 23: \n CH : christianhadiwijaya \n DS: daffsf \n MF: macropp\n JD: jesayadavidp\n BH: bnhrd\n\n");
     printf("ID Lines aslab 24: \n NA : 123dodol123 \n NZ: naputrizu \n DY: hikari.akira_\n");
 
-    printf("Thank you kepada para Aslab tercinta karena sudah membantu kami melalui DSD, ProgDas, dan beberapa Matkul di masa depan nanti. Love y'all especially NZ, DS, and MF"); //From FR
-    printf("I just hope y'all will be happy and successful by the end of our time here in UI. Also if any of you guys have issues that you guys wanna talk about, then I'm always available :) WYATB!!!!!!\n");
+    printf("\nThank you kepada para Aslab tercinta karena sudah membantu kami melalui DSD, ProgDas, dan beberapa Matkul di masa depan nanti. Love y'all especially NZ, DS, and MF\n"); //From FR (hopefully), ig I'm already FR in AKPRO but you get it lah
+    printf("\nI just hope y'all will be happy and successful by the end of our time here in UI. Also if any of you guys have issues that you guys wanna talk about, then I'm always available :) WYATB!!!!!!\n");
     
     printf("\n\n\n\n\n\n A message for me personally:");
     DELAY();
